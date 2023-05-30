@@ -269,7 +269,7 @@ async def next_page(bot, query):
                     ],
                 )
     btn.insert(0, [
-        InlineKeyboardButton("💎 ️HOW TO DOWNLOAD & WATCH 💎️", url=f"https://t.me/how_to_download_movie_from_bot")
+        InlineKeyboardButton("💎 ️HOW TO DOWNLOAD & WATCH 💎️", url=f"https://t.me/Request_Movies_Updates")
     ])
     try:
         await query.edit_message_reply_markup(
@@ -910,8 +910,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
                     InlineKeyboardButton('💎 Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ 💎', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('💎 ️MAIN CHANNEL 💎️', url="https://t.me/moviescrown123"),
-                    InlineKeyboardButton('💎️ GROUP 💎️', url='https://t.me/moviescrown')
+                    InlineKeyboardButton('💎 ️MAIN CHANNEL 💎️', url="https://t.me/Request_Movies_Updates"),
+                    InlineKeyboardButton('💎️ GROUP 💎️', url='https://t.me/Request_Moviews')
                 ],[
                     InlineKeyboardButton('💙Hᴇʟᴘ💙', callback_data='help'),
                     InlineKeyboardButton('💙Aʙᴏᴜᴛ💙', callback_data='about'),
