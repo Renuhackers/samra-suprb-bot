@@ -197,7 +197,7 @@ Nᴀᴍᴇ - {}"""
 
 <b>
 ▫️ ᴄʜᴀɴɴᴇʟ : @Request_Movies_Updates
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : https://t.me/+Q_L0u9Drex1lNDg1
+▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @Request_Movies_Updates_Discusion
 </b>"""
 
     IMDB_TEMPLATE_TXT = """
