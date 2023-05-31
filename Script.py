@@ -196,8 +196,8 @@ Nᴀᴍᴇ - {}"""
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
 
 <b>
-▫️ ᴄʜᴀɴɴᴇʟ : @anurinomoviez
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @anurinomovie
+▫️ ᴄʜᴀɴɴᴇʟ : @Request_Movies_Updates
+▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : https://t.me/+Q_L0u9Drex1lNDg1
 </b>"""
 
     IMDB_TEMPLATE_TXT = """
@@ -233,10 +233,10 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
     RESTART_TXT = """
 <b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
 
-📅 Dᴀᴛᴇ : <code>{}</code>
-⏰ Tɪᴍᴇ : <code>{}</code>
-🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
-🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code></b>"""
+🖕 Dᴀᴛᴇ : <code>{}</code>
+🖕 Tɪᴍᴇ : <code>{}</code>
+🖕 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
+🖕 Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code></b>"""
 
     LOGO = """
 
