@@ -269,7 +269,7 @@ async def next_page(bot, query):
                     ],
                 )
     btn.insert(0, [
-        InlineKeyboardButton("💎 ️HOW TO DOWNLOAD & WATCH 💎️", url=f"https://t.me/Request_Movies_Updates")
+        InlineKeyboardButton("💎 ️HOW TO DOWNLOAD & WATCH 💎️", url=f"https://t.me/Request_Movies_Updates/10")
     ])
     try:
         await query.edit_message_reply_markup(
@@ -1181,7 +1181,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "owner_info":
             btn = [[
                     InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start"),
-                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="t.me/@sheffy_samra")
+                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="t.me/sheffy_samra")
                   ]]
             await client.edit_message_media(
                 query.message.chat.id, 
