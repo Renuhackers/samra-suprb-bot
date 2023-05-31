@@ -61,7 +61,7 @@ async def pm_text(bot, message):
     user_id = message.from_user.id
     if content.startswith("/") or content.startswith("#"): return  # ignore commands and hashtags
     if user_id in ADMINS: return # ignore admins
-    await message.reply_text("<b>CONTACT HERE 👉👉 ----> [ @sheffy_samra ] / GROUP HERE 👉👉 @sheffy_samra !</b>")
+    await message.reply_text("<b>CONTACT HERE 👉👉 ----> [ @RENUS_HACKER ] / GROUP HERE 👉👉 @Request_Moviews !</b>")
     await bot.send_message(
         chat_id=LOG_CHANNEL,
         text=f"<b>#𝐏𝐌_𝐌𝐒𝐆\n\nNᴀᴍᴇ : {user}\n\nID : {user_id}\n\nMᴇssᴀɢᴇ : {content}</b>"
@@ -610,7 +610,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                  InlineKeyboardButton("JOIN", url="https://t.me/moviescrown123")
+                  InlineKeyboardButton("JOIN", url="https://t.me/Request_Movies_Updates")
                  ]
                 ]
             )
@@ -1398,7 +1398,7 @@ async def auto_filter(client, msg, spoll=False):
             )
 
     btn.insert(0, [
-        InlineKeyboardButton("💎 ️HOW TO DOWNLOAD & WATCH 💎️", url=f"https://t.me/how_to_download_movie_from_bot")
+        InlineKeyboardButton("💎 ️HOW TO DOWNLOAD & WATCH 💎️", url=f"https://t.me/Request_Movies_Updates")
     ])
 
     if offset != "":
